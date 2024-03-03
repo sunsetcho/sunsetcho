@@ -53,9 +53,9 @@
 
 -----
 
-☑️ **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01. ~ )
+☑️ **SSAFY** - 삼성 청년 SW 아카데미 9기 수료 (2023.01. ~ 2023.12.)
 
-☑️ 경북대학교 식품공학부(2016.03. ~ 2021.02.) 
+☑️ 경북대학교 식품공학부 (2016.03. ~ 2021.02.) 
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?sunsetzo=sunsetzo&theme=nord_dark)
